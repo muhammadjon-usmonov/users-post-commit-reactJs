@@ -1,0 +1,21 @@
+.users__name{
+    margin-top: 0;
+}
+
+.user__item + .user__item{
+    margin-top: 20px;
+}
+
+.users__link{
+    display: block;
+}
+
+.user__link{
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 2px 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: bisque;
+    color: black;
+}
